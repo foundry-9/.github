@@ -15,7 +15,7 @@
 
 Charles Sebold is the founder and primary developer at Foundry-9 LLC, based in the St. Louis Metro East area in Illinois, USA.
 
-I tend to write the tools I need, and as a fiction writer I needed something to keep track of a very large stack of worldbuilding notes. I live in [Obisidian](https://obsidian.md/) most of the time, and I'd like for Obsidian to be friendlier to LLMs. So I built some tools.
+I tend to write the tools I need, and as a fiction writer I needed something to keep track of a very large stack of worldbuilding notes. I live in [Obsidian](https://obsidian.md/) most of the time, and I'd like for Obsidian to be friendlier to LLMs. So I built some tools.
 
 Next thing I knew, I had started to write a standalone Python MCP to get my note data searchable (semantically) and available to Claude - not just for it to find things, but to change them. "No, no, that other city has the spaceport, not this one. See? Thanks, Claude."
 
